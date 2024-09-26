@@ -8,7 +8,7 @@ Enterprise Use: Improves employee well-being and enhances productivity across te
 
 ### 1. HR Manager (Elena, 45)
 Role: Director of HR
-**Goals**: Improve retention and morale; reduce burnout.
+**Goals**: Improve retention and morale; reduce burnout.<br/>
 **Challenges**: Needs real-time wellness insights; balance productivity and well-being.
 **Platform Benefit**: Provides holistic wellness data for proactive support.
 **Pain Points**: Concerned about privacy and employee perceptions.
