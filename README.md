@@ -30,9 +30,3 @@ Enterprise Use: Improves employee well-being and enhances productivity across te
 **Challenges**: Correlating productivity with wellness while ensuring privacy.<br />
 **Platform Benefit**: Provides data for predictive models and tailored suggestions.<br />
 **Pain Points**: Ethical concerns around data use.<br />
-### 5. IT Security Manager (Alex, 42)
-**Role**: IT Security Lead<br />
-**Goals**: Ensure data security and compliance.<br />
-**Challenges**: Protecting sensitive employee data.<br />
-**Platform Benefit**: Offers robust encryption and access controls.<br />
-**Pain Points**: Balancing data access and privacy compliance.<br />
