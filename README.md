@@ -7,7 +7,7 @@ Novelty: The platform should suggest personalized interventions (break times, co
 Enterprise Use: Improves employee well-being and enhances productivity across teams.
 
 ### 1. HR Manager (Elena, 45)
-Role: Director of HR
+**Role**: Director of HR
 **Goals**: Improve retention and morale; reduce burnout.<br/>
 **Challenges**: Needs real-time wellness insights; balance productivity and well-being.<br />
 **Platform Benefit**: Provides holistic wellness data for proactive support.<br />
