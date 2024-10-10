@@ -6,6 +6,10 @@ Objective: Build an AI-based platform that tracks employee productivity metrics 
 Novelty: The platform should suggest personalized interventions (break times, counseling) and productivity boosters using AI models trained on behavioral data.
 Enterprise Use: Improves employee well-being and enhances productivity across teams.
 
+
+![image](https://github.com/user-attachments/assets/407a25fd-0a0e-431f-9e6d-c40f713ac2a1)
+
+
 ### 1. HR Manager (Elena, 45)
 **Role**: Director of HR
 **Goals**: Improve retention and morale; reduce burnout.<br/>
